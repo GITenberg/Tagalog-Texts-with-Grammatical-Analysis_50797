@@ -1,10 +1,16 @@
 _repo: Tagalog-Texts-with-Grammatical-Analysis_50797
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50797-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Bloomfield, Leonard
     gutenberg_agent_id: '46088'
     url: http://www.gutenberg.org/2009/agents/46088
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50797#Tagalog-Texts-with-Grammatical-Analysis
 gutenberg_issued: '2015-12-30'
 gutenberg_type: Text
 identifiers:
