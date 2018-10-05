@@ -19,5 +19,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Tagalog Texts with Grammatical Analysis
 url: http://www.gutenberg.org/ebooks/50797
